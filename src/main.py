@@ -1,4 +1,4 @@
-# main.py
+# main.py (변경 사항 없음)
 from quiz_game import QuizGame
 
 def main():
@@ -23,6 +23,5 @@ def main():
         game.save()
         print("    저장 완료. 안녕히 가세요! 👋")
 
-# 이 파일을 직접 실행했을 때만 아래 코드 실행
 if __name__ == "__main__":
     main()
