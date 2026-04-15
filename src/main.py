@@ -1,4 +1,3 @@
-# main.py (변경 사항 없음)
 from quiz_game import QuizGame
 
 def main():

@@ -46,7 +46,7 @@ class QuizGame:
                 json.dump(data, f, ensure_ascii=False, indent=2)
         except IOError as e:
             print(f"[오류] 파일 저장 실패: {e}")
-
+#---------------JSON-------------------
     # 메뉴 프린트
     def show_menu(self):
         print("\n" + "=" * 40)

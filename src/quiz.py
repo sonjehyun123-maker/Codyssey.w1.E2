@@ -1,9 +1,5 @@
 import json
-import os
- 
-# ─────────────────────────────────────────
-# Quiz 클래스 : 퀴즈 한 문제를 담는 설계도
-# ─────────────────────────────────────────
+import os 
 class Quiz:
     # 데이터를 객체에 저장
     def __init__(self, question, choices, answer):
